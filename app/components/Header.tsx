@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <header>
-      <h4>REMIX VIDEO CHAT</h4>
+      <h4>Video Conferencing</h4>
     </header>
   );
 };
